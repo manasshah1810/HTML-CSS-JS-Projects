@@ -1,8 +1,8 @@
-# Java Projects
+# FrontEnd Projects
 
 ## Description
 
-The Java Projects repository is dedicated to showcasing projects developed using HTML, CSS, and JavaScript. These projects demonstrate the combination of front-end technologies to create interactive and functional web applications.
+The FrontEnd Projects repository is dedicated to showcasing projects developed using HTML, CSS, and JavaScript. These projects demonstrate the combination of front-end technologies to create interactive and functional web applications.
 
 ## Projects
 
